@@ -1,0 +1,321 @@
+EmployeeID,Department,JobRole,Gender,Age,YearsAtCompany,MonthlySalary,PerformanceRating,Attrition,AttritionFlag
+EMP-1001,Operations,Senior,Female,39,8,5707,2,No,0
+EMP-1002,Operations,Associate,Male,38,6,4122,1,No,0
+EMP-1003,Human Resources,Manager,Male,30,13,6765,5,Yes,1
+EMP-1004,Marketing,Manager,Female,57,13,7904,4,No,0
+EMP-1005,Human Resources,Senior,Female,50,1,4528,2,Yes,1
+EMP-1006,Sales,Executive,Male,55,0,9222,1,No,0
+EMP-1007,Finance,Manager,Male,25,5,8417,5,No,0
+EMP-1008,Operations,Associate,Female,32,14,3927,1,No,0
+EMP-1009,Sales,Associate,Female,55,11,4185,2,No,0
+EMP-1010,Marketing,Manager,Male,51,3,6585,1,No,0
+EMP-1011,Sales,Analyst,Female,46,7,4301,1,No,0
+EMP-1012,Operations,Senior,Male,33,8,4698,1,No,0
+EMP-1013,Sales,Executive,Female,33,2,9929,1,Yes,1
+EMP-1014,Marketing,Associate,Male,23,1,3913,1,No,0
+EMP-1015,Operations,Associate,Male,24,10,4131,4,No,0
+EMP-1016,Human Resources,Senior,Male,34,3,4456,5,No,0
+EMP-1017,Engineering,Executive,Female,27,3,17436,4,No,0
+EMP-1018,Marketing,Senior,Female,56,7,5239,2,No,0
+EMP-1019,Finance,Manager,Female,57,13,7978,1,No,0
+EMP-1020,Finance,Manager,Female,47,2,9857,5,No,0
+EMP-1021,Operations,Executive,Female,57,4,11192,3,Yes,1
+EMP-1022,Marketing,Manager,Male,31,11,8292,1,No,0
+EMP-1023,Engineering,Manager,Female,54,6,13258,1,No,0
+EMP-1024,Sales,Executive,Female,55,14,9273,4,Yes,1
+EMP-1025,Human Resources,Associate,Male,34,4,3773,3,No,0
+EMP-1026,Marketing,Senior,Male,47,11,6551,5,No,0
+EMP-1027,Engineering,Manager,Male,51,11,13136,3,No,0
+EMP-1028,Sales,Associate,Female,26,1,4528,1,No,0
+EMP-1029,Human Resources,Executive,Female,22,8,10038,1,No,0
+EMP-1030,Marketing,Senior,Female,56,14,5712,3,Yes,1
+EMP-1031,Engineering,Manager,Female,45,9,12985,2,No,0
+EMP-1032,Engineering,Senior,Male,47,5,8392,3,No,0
+EMP-1033,Finance,Manager,Male,47,4,10135,1,No,0
+EMP-1034,Engineering,Senior,Female,33,0,9121,4,No,0
+EMP-1035,Engineering,Analyst,Female,55,0,6339,1,No,0
+EMP-1036,Operations,Analyst,Female,59,6,3965,3,No,0
+EMP-1037,Sales,Associate,Male,48,4,4718,4,No,0
+EMP-1038,Sales,Analyst,Male,28,1,3653,4,No,0
+EMP-1039,Marketing,Senior,Male,42,7,5891,2,Yes,1
+EMP-1040,Sales,Senior,Female,36,0,5025,2,No,0
+EMP-1041,Marketing,Manager,Male,36,2,6665,2,No,0
+EMP-1042,Sales,Manager,Female,25,14,8550,3,No,0
+EMP-1043,Engineering,Executive,Male,54,0,14209,1,No,0
+EMP-1044,Finance,Manager,Female,51,12,9062,3,Yes,1
+EMP-1045,Operations,Associate,Male,54,12,3965,3,No,0
+EMP-1046,Engineering,Analyst,Male,30,11,5927,1,Yes,1
+EMP-1047,Marketing,Manager,Male,58,13,7397,4,No,0
+EMP-1048,Sales,Associate,Male,54,6,4557,4,No,0
+EMP-1049,Marketing,Associate,Male,32,11,4763,5,No,0
+EMP-1050,Human Resources,Manager,Female,23,8,7552,4,Yes,1
+EMP-1051,Engineering,Senior,Female,44,4,8852,1,No,0
+EMP-1052,Sales,Manager,Female,25,4,7721,2,No,0
+EMP-1053,Finance,Analyst,Male,28,12,5637,2,No,0
+EMP-1054,Finance,Manager,Male,44,10,9711,2,No,0
+EMP-1055,Marketing,Analyst,Female,57,11,3757,2,No,0
+EMP-1056,Finance,Executive,Male,35,13,14209,4,Yes,1
+EMP-1057,Marketing,Executive,Female,47,7,11105,2,No,0
+EMP-1058,Sales,Senior,Male,24,2,5881,4,No,0
+EMP-1059,Sales,Senior,Male,37,0,5630,4,No,0
+EMP-1060,Human Resources,Executive,Female,50,8,8241,2,No,0
+EMP-1061,Human Resources,Manager,Female,43,14,7094,4,No,0
+EMP-1062,Human Resources,Executive,Female,31,12,8958,1,No,0
+EMP-1063,Finance,Analyst,Male,36,9,4839,1,No,0
+EMP-1064,Finance,Senior,Male,40,13,7287,5,No,0
+EMP-1065,Engineering,Associate,Female,57,14,5964,2,No,0
+EMP-1066,Marketing,Associate,Female,54,9,4546,3,No,0
+EMP-1067,Marketing,Analyst,Male,46,10,4856,5,No,0
+EMP-1068,Engineering,Executive,Male,43,7,14968,3,No,0
+EMP-1069,Engineering,Associate,Male,26,11,6316,5,No,0
+EMP-1070,Human Resources,Analyst,Male,54,6,3449,5,No,0
+EMP-1071,Marketing,Analyst,Female,22,4,4010,3,No,0
+EMP-1072,Operations,Manager,Female,58,12,7790,5,No,0
+EMP-1073,Engineering,Analyst,Female,22,7,6167,3,No,0
+EMP-1074,Marketing,Analyst,Male,52,7,3710,5,Yes,1
+EMP-1075,Sales,Manager,Female,45,8,7431,4,No,0
+EMP-1076,Engineering,Associate,Male,40,8,7642,3,No,0
+EMP-1077,Sales,Analyst,Female,41,8,4630,2,No,0
+EMP-1078,Finance,Analyst,Male,34,2,5366,4,No,0
+EMP-1079,Finance,Associate,Female,39,3,5083,1,No,0
+EMP-1080,Engineering,Associate,Female,50,0,5864,1,Yes,1
+EMP-1081,Finance,Senior,Female,46,6,6790,3,No,0
+EMP-1082,Sales,Analyst,Male,44,6,3995,5,No,0
+EMP-1083,Marketing,Senior,Male,55,1,5158,3,No,0
+EMP-1084,Operations,Associate,Male,56,1,4283,4,No,0
+EMP-1085,Marketing,Analyst,Female,50,12,3844,2,Yes,1
+EMP-1086,Engineering,Senior,Male,30,0,8888,2,No,0
+EMP-1087,Marketing,Manager,Female,39,13,7069,5,No,0
+EMP-1088,Marketing,Analyst,Female,48,0,4350,2,No,0
+EMP-1089,Finance,Analyst,Female,39,6,4532,4,No,0
+EMP-1090,Engineering,Executive,Female,46,10,15301,4,No,0
+EMP-1091,Finance,Senior,Male,54,11,6415,3,No,0
+EMP-1092,Sales,Senior,Female,54,2,5963,5,No,0
+EMP-1093,Engineering,Analyst,Female,29,12,7282,3,No,0
+EMP-1094,Finance,Analyst,Male,53,8,4896,4,No,0
+EMP-1095,Engineering,Associate,Male,47,7,6548,4,No,0
+EMP-1096,Finance,Executive,Male,53,3,14551,4,No,0
+EMP-1097,Sales,Executive,Male,51,6,10757,2,No,0
+EMP-1098,Marketing,Manager,Male,52,13,8052,1,No,0
+EMP-1099,Marketing,Executive,Female,39,4,10275,1,No,0
+EMP-1100,Engineering,Associate,Female,51,7,7104,3,No,0
+EMP-1101,Finance,Associate,Female,42,14,6047,2,No,0
+EMP-1102,Engineering,Analyst,Female,28,14,7235,2,No,0
+EMP-1103,Marketing,Associate,Female,23,4,4085,2,No,0
+EMP-1104,Marketing,Senior,Female,50,10,6061,5,No,0
+EMP-1105,Operations,Analyst,Male,32,14,4097,4,Yes,1
+EMP-1106,Marketing,Analyst,Male,39,8,3678,5,No,0
+EMP-1107,Finance,Executive,Female,53,11,13231,2,No,0
+EMP-1108,Finance,Analyst,Female,41,4,5170,5,No,0
+EMP-1109,Marketing,Senior,Male,26,6,5033,4,No,0
+EMP-1110,Marketing,Analyst,Male,35,0,4663,1,No,0
+EMP-1111,Finance,Manager,Male,43,10,8238,3,No,0
+EMP-1112,Human Resources,Manager,Female,22,13,6356,4,No,0
+EMP-1113,Marketing,Senior,Female,27,8,6466,5,No,0
+EMP-1114,Finance,Senior,Female,56,6,7990,1,No,0
+EMP-1115,Operations,Analyst,Male,59,1,3874,5,No,0
+EMP-1116,Marketing,Manager,Female,26,1,8151,2,No,0
+EMP-1117,Sales,Associate,Male,45,4,3849,2,No,0
+EMP-1118,Finance,Analyst,Male,28,2,5403,4,No,0
+EMP-1119,Engineering,Manager,Male,25,3,12576,2,No,0
+EMP-1120,Finance,Associate,Male,34,4,5798,2,No,0
+EMP-1121,Engineering,Manager,Female,54,8,11629,2,No,0
+EMP-1122,Human Resources,Senior,Female,27,3,5671,4,No,0
+EMP-1123,Human Resources,Analyst,Female,54,6,3585,2,No,0
+EMP-1124,Engineering,Analyst,Male,45,12,7348,2,No,0
+EMP-1125,Operations,Senior,Female,55,12,6049,1,No,0
+EMP-1126,Marketing,Senior,Female,53,4,5340,2,No,0
+EMP-1127,Sales,Analyst,Female,34,11,4073,2,No,0
+EMP-1128,Marketing,Senior,Female,48,4,6147,5,No,0
+EMP-1129,Sales,Associate,Male,52,12,4760,3,No,0
+EMP-1130,Marketing,Manager,Female,55,11,7775,1,Yes,1
+EMP-1131,Human Resources,Associate,Female,54,2,3429,5,No,0
+EMP-1132,Engineering,Executive,Female,33,4,15817,2,No,0
+EMP-1133,Operations,Analyst,Female,41,11,3984,4,No,0
+EMP-1134,Human Resources,Executive,Male,39,7,9241,1,No,0
+EMP-1135,Human Resources,Senior,Male,48,0,4466,3,Yes,1
+EMP-1136,Operations,Executive,Female,49,12,9024,2,No,0
+EMP-1137,Marketing,Senior,Male,52,12,5853,2,Yes,1
+EMP-1138,Marketing,Manager,Male,58,8,7767,4,No,0
+EMP-1139,Sales,Senior,Female,51,3,5985,2,No,0
+EMP-1140,Human Resources,Associate,Female,45,13,3446,3,No,0
+EMP-1141,Marketing,Analyst,Female,58,3,4018,3,Yes,1
+EMP-1142,Engineering,Executive,Female,47,10,16238,3,No,0
+EMP-1143,Finance,Analyst,Female,32,5,5303,2,No,0
+EMP-1144,Engineering,Senior,Male,27,11,9415,1,No,0
+EMP-1145,Marketing,Analyst,Male,47,0,4683,4,No,0
+EMP-1146,Marketing,Associate,Female,27,12,4653,5,Yes,1
+EMP-1147,Engineering,Senior,Male,24,4,7964,1,No,0
+EMP-1148,Human Resources,Manager,Female,49,14,6674,2,No,0
+EMP-1149,Marketing,Executive,Female,51,5,11824,1,No,0
+EMP-1150,Engineering,Analyst,Male,45,14,5801,3,No,0
+EMP-1151,Finance,Manager,Female,31,6,8277,3,No,0
+EMP-1152,Marketing,Analyst,Male,53,2,4749,4,No,0
+EMP-1153,Finance,Executive,Male,52,13,12041,4,No,0
+EMP-1154,Engineering,Associate,Female,35,12,6665,2,No,0
+EMP-1155,Operations,Analyst,Male,50,7,3463,1,No,0
+EMP-1156,Human Resources,Analyst,Female,41,11,3634,2,No,0
+EMP-1157,Engineering,Associate,Male,55,13,7214,4,No,0
+EMP-1158,Human Resources,Associate,Female,47,4,3612,5,No,0
+EMP-1159,Human Resources,Senior,Male,28,9,5912,1,No,0
+EMP-1160,Sales,Senior,Male,25,4,5229,3,No,0
+EMP-1161,Finance,Senior,Male,26,3,6881,4,Yes,1
+EMP-1162,Engineering,Analyst,Male,54,1,6242,3,No,0
+EMP-1163,Marketing,Senior,Female,30,3,5363,4,No,0
+EMP-1164,Operations,Associate,Female,38,6,4408,5,No,0
+EMP-1165,Sales,Analyst,Male,50,0,4615,2,Yes,1
+EMP-1166,Marketing,Executive,Female,46,11,9944,2,No,0
+EMP-1167,Marketing,Analyst,Male,54,3,4126,4,No,0
+EMP-1168,Operations,Analyst,Male,40,8,3598,4,No,0
+EMP-1169,Sales,Analyst,Female,26,1,4497,2,Yes,1
+EMP-1170,Engineering,Associate,Male,26,3,5962,3,No,0
+EMP-1171,Finance,Executive,Female,39,6,11637,1,No,0
+EMP-1172,Engineering,Executive,Female,26,6,17423,3,No,0
+EMP-1173,Finance,Manager,Female,54,5,8433,4,No,0
+EMP-1174,Human Resources,Manager,Female,40,1,6965,5,No,0
+EMP-1175,Finance,Analyst,Male,41,9,4671,1,No,0
+EMP-1176,Operations,Executive,Female,23,12,9116,3,No,0
+EMP-1177,Engineering,Senior,Female,54,6,9183,1,No,0
+EMP-1178,Finance,Manager,Female,30,7,9492,3,No,0
+EMP-1179,Sales,Manager,Female,37,10,6607,1,No,0
+EMP-1180,Engineering,Associate,Male,31,4,6973,2,No,0
+EMP-1181,Human Resources,Executive,Male,46,14,8479,2,No,0
+EMP-1182,Marketing,Associate,Male,33,5,4996,3,No,0
+EMP-1183,Human Resources,Manager,Female,44,7,6159,5,Yes,1
+EMP-1184,Engineering,Manager,Female,49,8,12621,5,No,0
+EMP-1185,Marketing,Manager,Female,38,3,8597,4,Yes,1
+EMP-1186,Marketing,Analyst,Male,57,0,4715,5,No,0
+EMP-1187,Engineering,Associate,Female,25,9,7347,1,No,0
+EMP-1188,Engineering,Manager,Male,47,8,11938,2,Yes,1
+EMP-1189,Operations,Executive,Male,24,3,11472,5,No,0
+EMP-1190,Human Resources,Analyst,Female,44,10,4240,1,No,0
+EMP-1191,Engineering,Executive,Male,52,1,18173,2,No,0
+EMP-1192,Engineering,Executive,Male,22,8,14103,3,No,0
+EMP-1193,Operations,Manager,Male,58,7,7999,1,No,0
+EMP-1194,Operations,Executive,Female,51,0,9925,4,No,0
+EMP-1195,Engineering,Analyst,Male,37,2,6296,5,No,0
+EMP-1196,Marketing,Executive,Female,25,11,12346,1,No,0
+EMP-1197,Finance,Senior,Female,33,11,6235,5,No,0
+EMP-1198,Marketing,Executive,Male,25,4,10782,1,No,0
+EMP-1199,Finance,Analyst,Female,48,9,4530,1,No,0
+EMP-1200,Finance,Manager,Male,36,1,8120,3,No,0
+EMP-1201,Marketing,Executive,Male,45,8,10731,3,Yes,1
+EMP-1202,Marketing,Executive,Male,25,5,12043,3,No,0
+EMP-1203,Marketing,Analyst,Female,57,3,4123,5,No,0
+EMP-1204,Finance,Associate,Female,44,14,5591,2,No,0
+EMP-1205,Human Resources,Manager,Male,32,2,6866,2,No,0
+EMP-1206,Engineering,Associate,Female,45,9,5859,5,No,0
+EMP-1207,Human Resources,Associate,Male,27,5,4079,3,No,0
+EMP-1208,Engineering,Analyst,Male,56,8,7332,1,No,0
+EMP-1209,Operations,Senior,Female,27,11,5176,2,No,0
+EMP-1210,Operations,Associate,Female,43,8,3918,4,No,0
+EMP-1211,Operations,Manager,Female,33,3,6341,3,No,0
+EMP-1212,Human Resources,Senior,Male,28,4,5014,2,No,0
+EMP-1213,Finance,Senior,Female,24,7,7636,4,No,0
+EMP-1214,Finance,Analyst,Male,45,14,4497,1,No,0
+EMP-1215,Engineering,Analyst,Male,28,14,7125,1,No,0
+EMP-1216,Sales,Senior,Female,29,3,5035,1,No,0
+EMP-1217,Finance,Manager,Male,27,6,9791,5,No,0
+EMP-1218,Human Resources,Associate,Female,32,9,4477,1,No,0
+EMP-1219,Human Resources,Manager,Female,35,3,6214,2,No,0
+EMP-1220,Engineering,Manager,Male,58,3,11822,1,No,0
+EMP-1221,Operations,Executive,Male,48,14,11146,3,No,0
+EMP-1222,Sales,Manager,Female,34,14,8284,5,Yes,1
+EMP-1223,Finance,Analyst,Female,22,1,5657,1,No,0
+EMP-1224,Marketing,Senior,Female,29,9,6513,4,Yes,1
+EMP-1225,Human Resources,Senior,Female,41,10,4960,4,No,0
+EMP-1226,Operations,Senior,Male,22,10,4720,4,No,0
+EMP-1227,Engineering,Analyst,Male,35,13,5710,2,No,0
+EMP-1228,Sales,Executive,Female,42,0,9974,5,Yes,1
+EMP-1229,Finance,Senior,Female,41,5,7041,2,No,0
+EMP-1230,Engineering,Analyst,Male,47,8,5711,3,No,0
+EMP-1231,Operations,Manager,Female,46,5,6838,1,No,0
+EMP-1232,Engineering,Senior,Male,46,8,7889,4,No,0
+EMP-1233,Human Resources,Executive,Female,30,3,8613,1,No,0
+EMP-1234,Human Resources,Manager,Male,57,11,6926,3,No,0
+EMP-1235,Human Resources,Analyst,Female,46,4,3525,4,Yes,1
+EMP-1236,Engineering,Manager,Male,52,14,12385,3,No,0
+EMP-1237,Finance,Analyst,Male,39,8,4853,4,No,0
+EMP-1238,Engineering,Manager,Male,23,3,10634,4,No,0
+EMP-1239,Sales,Senior,Male,45,5,6539,1,No,0
+EMP-1240,Engineering,Manager,Female,59,13,10808,4,No,0
+EMP-1241,Operations,Analyst,Female,56,6,4504,2,No,0
+EMP-1242,Engineering,Executive,Male,25,3,17570,5,Yes,1
+EMP-1243,Human Resources,Associate,Female,40,9,4508,4,No,0
+EMP-1244,Operations,Analyst,Male,29,5,4144,4,Yes,1
+EMP-1245,Finance,Executive,Male,34,8,14252,2,No,0
+EMP-1246,Sales,Analyst,Male,31,10,3602,1,No,0
+EMP-1247,Finance,Analyst,Male,31,8,4851,2,No,0
+EMP-1248,Sales,Manager,Male,43,11,6859,5,No,0
+EMP-1249,Finance,Manager,Female,24,7,9416,3,No,0
+EMP-1250,Finance,Senior,Male,54,9,7192,4,No,0
+EMP-1251,Operations,Associate,Female,41,3,4217,3,No,0
+EMP-1252,Marketing,Senior,Male,34,10,6121,3,No,0
+EMP-1253,Marketing,Associate,Female,37,6,5148,1,No,0
+EMP-1254,Engineering,Associate,Female,26,13,6583,1,No,0
+EMP-1255,Human Resources,Manager,Female,27,7,6595,3,No,0
+EMP-1256,Operations,Manager,Male,23,5,6453,1,No,0
+EMP-1257,Sales,Senior,Female,59,9,5363,2,No,0
+EMP-1258,Human Resources,Associate,Male,44,10,3821,2,No,0
+EMP-1259,Engineering,Senior,Female,36,13,8273,3,No,0
+EMP-1260,Engineering,Executive,Female,22,12,14081,3,No,0
+EMP-1261,Human Resources,Executive,Male,40,6,8709,5,No,0
+EMP-1262,Marketing,Analyst,Female,50,3,4716,1,No,0
+EMP-1263,Sales,Senior,Female,51,6,6028,5,No,0
+EMP-1264,Sales,Senior,Female,45,10,5497,5,No,0
+EMP-1265,Engineering,Executive,Male,43,4,17813,1,Yes,1
+EMP-1266,Human Resources,Senior,Male,56,10,5432,2,No,0
+EMP-1267,Marketing,Executive,Female,32,3,11772,4,No,0
+EMP-1268,Engineering,Manager,Male,56,5,11016,4,No,0
+EMP-1269,Sales,Analyst,Female,28,12,4307,1,No,0
+EMP-1270,Finance,Associate,Male,59,3,6188,1,No,0
+EMP-1271,Engineering,Senior,Female,41,6,9318,2,No,0
+EMP-1272,Engineering,Executive,Male,23,5,15221,4,No,0
+EMP-1273,Operations,Analyst,Female,49,1,3511,3,No,0
+EMP-1274,Sales,Associate,Female,42,10,4732,4,No,0
+EMP-1275,Sales,Executive,Female,57,8,9495,1,No,0
+EMP-1276,Human Resources,Manager,Female,48,3,6009,5,No,0
+EMP-1277,Marketing,Associate,Male,36,1,4363,2,Yes,1
+EMP-1278,Marketing,Senior,Male,52,12,6355,4,No,0
+EMP-1279,Finance,Executive,Female,30,8,14120,4,No,0
+EMP-1280,Operations,Senior,Male,55,2,5991,1,No,0
+EMP-1281,Operations,Associate,Female,55,8,3924,1,No,0
+EMP-1282,Marketing,Senior,Male,25,9,5613,3,No,0
+EMP-1283,Human Resources,Manager,Male,26,3,7227,3,No,0
+EMP-1284,Sales,Senior,Female,41,4,5533,5,Yes,1
+EMP-1285,Finance,Senior,Male,27,3,7747,5,No,0
+EMP-1286,Marketing,Executive,Male,25,11,11288,5,No,0
+EMP-1287,Sales,Manager,Male,52,9,8358,4,No,0
+EMP-1288,Sales,Manager,Female,58,8,7859,3,No,0
+EMP-1289,Human Resources,Analyst,Female,24,3,3655,4,No,0
+EMP-1290,Finance,Analyst,Male,25,5,5183,3,No,0
+EMP-1291,Human Resources,Manager,Male,25,14,6187,3,No,0
+EMP-1292,Marketing,Executive,Male,55,14,9305,4,No,0
+EMP-1293,Human Resources,Analyst,Female,54,14,4250,1,No,0
+EMP-1294,Human Resources,Associate,Male,46,10,4116,3,No,0
+EMP-1295,Marketing,Senior,Male,32,3,5647,3,No,0
+EMP-1296,Finance,Executive,Male,23,5,14073,4,No,0
+EMP-1297,Finance,Analyst,Male,39,13,5334,3,No,0
+EMP-1298,Engineering,Associate,Female,33,12,7401,5,No,0
+EMP-1299,Human Resources,Senior,Female,43,9,4965,1,No,0
+EMP-1300,Finance,Manager,Male,54,10,8228,2,No,0
+EMP-1301,Marketing,Analyst,Male,50,2,3843,4,No,0
+EMP-1302,Sales,Associate,Male,37,12,3993,3,No,0
+EMP-1303,Engineering,Analyst,Male,56,11,5789,4,Yes,1
+EMP-1304,Marketing,Executive,Male,48,3,11031,5,Yes,1
+EMP-1305,Finance,Associate,Male,53,7,4815,1,No,0
+EMP-1306,Operations,Associate,Female,55,3,4386,3,No,0
+EMP-1307,Operations,Associate,Female,52,9,4127,1,No,0
+EMP-1308,Engineering,Manager,Female,22,1,13178,1,No,0
+EMP-1309,Operations,Executive,Female,28,12,10652,1,No,0
+EMP-1310,Marketing,Analyst,Male,26,8,4800,4,No,0
+EMP-1311,Operations,Associate,Female,41,14,3750,3,Yes,1
+EMP-1312,Human Resources,Senior,Female,30,3,4547,2,No,0
+EMP-1313,Human Resources,Executive,Male,31,10,8919,2,Yes,1
+EMP-1314,Human Resources,Manager,Female,47,4,7575,2,No,0
+EMP-1315,Human Resources,Associate,Male,34,14,4059,3,No,0
+EMP-1316,Human Resources,Analyst,Female,38,1,4259,5,No,0
+EMP-1317,Human Resources,Manager,Female,38,12,6797,3,No,0
+EMP-1318,Finance,Analyst,Female,45,2,5574,4,No,0
+EMP-1319,Sales,Manager,Female,44,11,6461,4,Yes,1
+EMP-1320,Operations,Manager,Female,52,11,8097,5,No,0
